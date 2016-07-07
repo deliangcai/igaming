@@ -45,6 +45,9 @@ public class Client {
 
 		co = new CO();
 		co.create(pname + 3);
+		
+		co = new CO();
+		co.create(pname + 4);
 	}
 
 }
